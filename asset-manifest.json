@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emotion-counter/static/css/main.86c8ced2.css",
+    "main.js": "/emotion-counter/static/js/main.ec0346ec.js",
+    "static/js/488.5fa8622e.chunk.js": "/emotion-counter/static/js/488.5fa8622e.chunk.js",
+    "index.html": "/emotion-counter/index.html",
+    "main.86c8ced2.css.map": "/emotion-counter/static/css/main.86c8ced2.css.map",
+    "main.ec0346ec.js.map": "/emotion-counter/static/js/main.ec0346ec.js.map",
+    "488.5fa8622e.chunk.js.map": "/emotion-counter/static/js/488.5fa8622e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c8ced2.css",
+    "static/js/main.ec0346ec.js"
+  ]
+}
